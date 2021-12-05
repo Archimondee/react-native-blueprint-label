@@ -1,8 +1,8 @@
 # react-native-blueprint-label
 
 ## Getting started
-
-`$ npm install react-native-blueprint-label --save`
+Add this in your package.json
+`react-native-luna-star-printer": "github:archimondee/react-native-blue-print-label`
 
 ## Usage
 ```javascript
