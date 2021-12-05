@@ -32,7 +32,7 @@ new RNBluetoothEscposPrinterPackage() -> On Get packages
 
 ### Usage 
 
-```
+```javascript
 import ReactNativeBlueprintLabel from 'react-native-blueprint-label';
 //Init printer module
 ReactNativeBlueprintLabel.init();
