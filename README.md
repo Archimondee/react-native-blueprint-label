@@ -2,7 +2,7 @@
 
 ## Getting started
 Add this in your package.json
-`"react-native-blueprint-label": "github:archimondee/react-native-blue-print-label"`
+`"react-native-blueprint-label": "github:archimondee/react-native-blueprint-label"`
 
 ## Usage
 ```javascript
