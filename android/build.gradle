@@ -32,7 +32,6 @@ repositories {
 }
 
 dependencies {
-    api files('libs/PosPrinterSDK.jar')
     api files('libs/qsprintersdk.jar')
     api 'com.facebook.react:react-native:+'
     api 'com.google.zxing:core:3.2.1'
