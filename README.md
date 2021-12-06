@@ -27,7 +27,7 @@ project(':react-native-blueprint-label').projectDir = new File(rootProject.proje
 3. Add this in MainApplication.java file
 ```
 import com.blueprinter.ReactNativeBlueprintLabelPackage; -> On top
-new RNBluetoothEscposPrinterPackage() -> On Get packages
+new ReactNativeBlueprintLabelPackage() -> On Get packages
 ```
 
 ### Usage 
