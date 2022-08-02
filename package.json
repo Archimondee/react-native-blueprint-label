@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
+  "types": "types/index.d.ts",
   "files": [
     "README.md",
     "android",
